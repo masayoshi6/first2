@@ -1,0 +1,3 @@
+[submodule "first3"]
+	path = first3
+	url = https://github.com/masayoshi6/first3.git
