@@ -6,6 +6,7 @@ public class Main {
     System.out.println("Hello and welcome!");
     System.out.println("あいうえお");
     System.out.println("かきくけこ");
+    System.out.println("さしすせそ");
     for (int i = 1; i <= 5; i++) {
       System.out.println("i = " + i);
     }
